@@ -1,0 +1,9 @@
+# Normalize line endings
+* text=auto
+
+# Rust
+*.rs text eol=lf
+
+# Cargo
+Cargo.toml text eol=lf
+Cargo.lock text eol=lf
